@@ -1,6 +1,5 @@
 
-# From MD to Brain by Anki
-
+# Flash Gen AI
 This project integrates OpenAI's GPT-3 model for generating Anki flashcards from provided text files.
 
 Please, **read usage section**
